@@ -25,7 +25,7 @@ This project features a comprehensive Sales Dashboard created using Power BI. Th
 
 To view the Sales Dashboard, follow these steps:
 
-1. Clone the repository:
+Clone the repository:
    git clone https://github.com/Venkatasr665/Sales_Report-PowerBI.git
 
 ## Usage
@@ -53,17 +53,17 @@ The data used in this Sales Dashboard was created in an Excel file (sales_data.x
   - File Name: sales_data.xlsx
 
 ### *Data Structure*:
-  -The Excel file contains multiple sheets, including:
-      -Sales Data: This sheet includes columns such as:
-            - Order ID: Unique identifier for each order.
-            - Country: Geographic region where the sale occurred.
-            - State: Geographic State where the sale occurred.
-            - City: Geographic City where the sale occurred.
-            - Sales Amount: Total revenue generated from the sale.
-            - Date: Date of the transaction.
+The Excel file contains multiple sheets, including:
+- Sales Data: This sheet includes columns such as:
+- Order ID: Unique identifier for each order.
+- Country: Geographic region where the sale occurred.
+- State: Geographic State where the sale occurred.
+- City: Geographic City where the sale occurred.
+- Sales Amount: Total revenue generated from the sale.
+- Date: Date of the transaction.
 
 ### *Data Creation*:
-  -The data was generated to simulate realistic sales scenarios and trends. It includes a various regions and sales figures to provide a comprehensive analysis.
+The data was generated to simulate realistic sales scenarios and trends. It includes a various regions and sales figures to provide a comprehensive analysis.
 
 ### *Usage in Power BI*:
 The Excel file is imported into Power BI, where it is transformed and modeled to create the visualizations displayed in the dashboard. Ensure that the data model is correctly set up to reflect the visualizations accurately.
