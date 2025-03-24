@@ -31,19 +31,19 @@ To view the Sales Dashboard, follow these steps:
 ## Usage
 
 1. Open the Dashboard:
-    -- Launch Power BI Desktop.
-    -- Open the Sales Dashboard file (Venkata_Sales_Report.pbix) from the cloned repository.
+-- Launch Power BI Desktop.
+-- Open the Sales Dashboard file (Venkata_Sales_Report.pbix) from the cloned repository.
 
 2. Explore the Dashboard:
-    -- The dashboard consists of multiple pages. Use the tabs at the bottom to navigate between different views, such as "Overview," tooltip pages like "Current vs Previous Day," and "Current vs previous year."
+-- The dashboard consists of multiple pages. Use the tabs at the bottom to navigate between different views, such as "Overview," tooltip pages like "Current vs Previous Day," and "Current vs previous year."
 
 3. Interact with Visualizations:
-    -- Hover over charts and graphs to view tooltips that provide additional information.
-    -- Click on different elements (e.g., bars in a bar chart) to filter the data displayed in other visualizations on the dashboard.
+-- Hover over charts and graphs to view tooltips that provide additional information.
+-- Click on different elements (e.g., bars in a bar chart) to filter the data displayed in other visualizations on the dashboard.
 
-4. Use Filters and Slicers:
-    -- On the right side of the dashboard, you will find slicers for filtering data by criteria such as date range, city, or sales region.
-    -- Select or deselect options in the slicers to dynamically update the visualizations based on your selections.
+5. Use Filters and Slicers:
+-- On the right side of the dashboard, you will find slicers for filtering data by criteria such as date range, city, or sales region.
+-- Select or deselect options in the slicers to dynamically update the visualizations based on your selections.
 
 ## DataSource
 
