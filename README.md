@@ -68,5 +68,6 @@ The data was generated to simulate realistic sales scenarios and trends. It incl
 ### *Usage in Power BI*:
 The Excel file is imported into Power BI, where it is transformed and modeled to create the visualizations displayed in the dashboard. Ensure that the data model is correctly set up to reflect the visualizations accurately.
 
-![Alt text](https://github.com/Venkatasr665/Sales_Report-PowerBI/blob/a120514fbe76a6748612639fb2fbf28f9375e12d/SalesDashboard.png)
+![Alt text](https://github.com/Venkatasr665/Sales_Report-PowerBI/blob/main/SalesDashboard.png?raw=true)
+
 
